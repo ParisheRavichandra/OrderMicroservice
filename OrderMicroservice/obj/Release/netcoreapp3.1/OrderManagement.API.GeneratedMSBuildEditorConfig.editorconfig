@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OrderManagement.API
+build_property.ProjectDir = c:\training2\mfpeproject\restaurantmanagementsystem-main\ordermanagementmicroservice\OrderManagement.API\
